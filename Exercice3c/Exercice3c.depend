@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1792975190 source:c:\users\pc\documents\sql_lab1\exercice3c\src\vehicule.cpp
+	<iostream>
+	<string>
+
+1792975190 source:c:\users\pc\documents\sql_lab1\exercice3c\src\camion.cpp
+	"Camion.h"
+
+1792975491 c:\users\pc\documents\sql_lab1\exercice3c\include\camion.h
+	<Vehicule.h>
+
+1792975466 c:\users\pc\documents\sql_lab1\exercice3c\include\vehicule.h
+	<iostream>
+	<string>
+
+1792975190 source:c:\users\pc\documents\sql_lab1\exercice3c\src\voiture.cpp
+	"Voiture.h"
+
+1792975491 c:\users\pc\documents\sql_lab1\exercice3c\include\voiture.h
+	<Vehicule.h>
+
